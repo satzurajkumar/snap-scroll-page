@@ -4,4 +4,10 @@
 
 ## bottom and side navigation for better UX
 
-## Build with nextJS
+## Build with
+
+Next.js (App Router)
+
+TypeScript
+
+TailwindCSS for styling
